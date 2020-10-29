@@ -1,0 +1,7 @@
+#Funcion Ectodominio proteina S SARS-CoV-2
+El ectodominio consiste en la subunidad S1 de union a receptor y la subunidad
+S2 de fusion a membrana. La S1 se une al receptor de las células del hospedero
+y la S2 participa en la fusion de la membrana viral con la membrana de la 
+célula hospedera. Este proceso de fusión permite que el genoma ssARN(+)
+del SARS-CoV-2 ingrese al hospedero e inicie el ciclo de infección.
+

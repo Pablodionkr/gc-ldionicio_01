@@ -1,0 +1,17 @@
+#Resumen Conferencia SARS-CoV-2
+## Estructura del Coronavirus SARS-CoV-2
+
+El SARS-CoV-2 tiene una forma característica de espículas que le dan forma de corona, a lo que se debe su nombre.
+Este coronavirus es un betacoronavirus, su genoma esta constituido por genomas:
+Poliproteína ORF1ab, Proteína S la cual posee dos dominios, S1 y S2 y proteínas estructurales, de membrana y proteína M
+Este genoma es similar al de murciélago con un intermediario entre el humano y este
+Este virus al ser ARN posee alta tasa de mutaciones.
+
+La estructura ssRNA+ de cadena sencilla enrrollado en una nucleocápside (NP), es un virus envuelto
+por la glicoproteína de membrana, proteína EP y proteína S. 
+Este se transporta mediante microgotas expulsadas al toser o estornudar.
+La proteina S en su ectodomiinio S1 trimero de union que une al receptor de las celulas y S2 de fusion
+Los receptores se encuentran en el tracto gastrointestinal, nervioso y respiratorio. 
+Uno de estos receptores es ACE2,
+Una de las estrategias de vacuna son virus atenuados, Ac anti-proteina S
+
