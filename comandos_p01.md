@@ -127,5 +127,8 @@ Al utilizar less -S aparece la informacion por columnas de forma más ordenada
 
 **Respuesta 11**
 
-less -S --pattern=gene sarscov2_genome.gff3
+less -S --pattern=gene sarscov2_genome.gff3 cat sarscov2_genome.gff3 | grep -c 'gene' -28
+La diferencia entre genes y CDS es que el gen muestra únicamente los exones
+
+ 
 
