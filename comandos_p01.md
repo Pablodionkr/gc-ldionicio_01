@@ -92,9 +92,40 @@ touch glycoproteins.faa
 >pdb|6VXX|B Chain B, SARS-CoV-2 spike glycoprotein
 >pdb|6VXX|C Chain C, SARS-CoV-2 spike glycoprotein
 
-** Respuesta 4**
+**Respuesta 4**
 
 cat splike_a.faa > splike_b.faa > splike_c.faa > glycoproteins.faa
 
+**Respuesta 5** 
 
+Se borraron las ligas suaves
+
+**Respuesta 6**
+
+head -3 sarscov2_genome.fasta
+zless sarscov2_assembly.fasta.gz | head -3
+
+**Respuesta 7**
+
+cat sarscov2_genome.fasta | grep -c '>' - 
+zless sarscov2_assembly.fasta.gz | grep -c '>' -
+
+**Respuesta 8**
+
+zless SRR10971381_R2.fastq.gz  | head -12
+zless SRR10971381_R2.fastq.gz  | grep -c '+'
+
+**Respuesta 9**
+
+El formato "fasta" corresponde a secuencias ADN.
+El formato "faa" corresponde a aminoacidos
+el formato "fastq" corresponde a genes
+
+**Respuesta 10**
+
+Al utilizar less -S aparece la informacion por columnas de forma más ordenada
+
+**Respuesta 11**
+
+less -S --pattern=gene sarscov2_genome.gff3
 
