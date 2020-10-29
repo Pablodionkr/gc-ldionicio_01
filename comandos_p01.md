@@ -7,6 +7,7 @@
 
 /usr/bin/bash
 
+
 **Respuesta 2:**
 
 mkdir data filtered raw_data meta scripts figures archive
